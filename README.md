@@ -1,0 +1,1 @@
+Man kan bara köra index.html via live server i VS code.
